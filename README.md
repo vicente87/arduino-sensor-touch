@@ -1,2 +1,2 @@
 # arduino-sensor-touch
-Seonsor de touch para proyectos
+Ejemplos sencillos de utilización de sensores touch con arduino uno. 
